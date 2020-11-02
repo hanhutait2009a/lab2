@@ -1,0 +1,39 @@
+*{
+    font-size: 11px;
+    font-family: Tahoma;
+}
+.div{
+    padding-left: 30px;
+}
+h1{
+    text-align: center;
+    font-size: 30px!important;
+}
+.chudam{
+    font-weight: bold;
+}
+.chunghieng{
+    font-style:italic;
+}
+.chudovsnghieng{
+    font-style:italic;
+    color:red;
+}
+.chuxanhvsgachchan{
+    color: greenyellow;
+    font-style:italic;
+    text-decoration-line:underline;
+    text-decoration-color:greenyellow ;
+}
+.chudamvsmaudo{
+    font-weight: bold;
+    color:red;
+}
+.bluevsgachchan{
+    text-decoration-line:underline;
+    text-decoration-color:blue;
+    color: blue;
+}
+.ul,li{
+    font-family: Consolas;
+}
